@@ -17,6 +17,8 @@ public class Java1 {
     public static void main(String[] args) {
         
         System.out.println("rojo");
+         System.out.println("azul");
+         System.out.println("verde");
         // TODO code application logic here
     }
     
