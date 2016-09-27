@@ -20,6 +20,8 @@ public class Java1 {
          System.out.println("azul");
          System.out.println("verde");
         System.out.println("moradito");
+        System.out.println("holaaaa");
+         System.out.println("rama1");
         // TODO code application logic here
     }
     
